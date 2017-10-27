@@ -16,6 +16,8 @@ For more information please visit http://docker.com , https://mesosphere.com/mes
 
 * [Exhibitor](https://hub.docker.com/r/lilidata/exhibitor) - Zookeeper for Mesos
 * [Mesos](https://hub.docker.com/r/lilidata/mesos) - Mesos Master and Agent
+* [Kafka-Mesos](https://hub.docker.com/r/lilidata/kafka-mesos/) - Kafka on Mesos
+* [HDFS-Mesos](https://hub.docker.com/r/lilidata/hdfs-mesos/) - HDFS on Mesos
 
 ### Exhibitor
 
